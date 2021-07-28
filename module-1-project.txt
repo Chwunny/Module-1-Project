@@ -1,0 +1,22 @@
+Part 1:
+-User Personas: 
+https://www.figma.com/file/90P3ciUMtctrsvnzKdXteU/User-Personas?node-id=0%3A1
+
+-App name: InstaGrub
+
+Part 2: 
+-MVP:
+Have a login/user profile feature.
+Have a search function.
+Be able to recommend new restaurants in a users specified area.
+Be able to recommend restaurants based on how fast they can fulfill an order.
+Schedule deliveries or takeout orders.
+Have a business portal for restaurants to receive/fulfill orders.
+
+Trello link:
+https://trello.com/invite/b/ozpHBfXY/02ce706a064786a26244f90d2fedb4b1/mvp-user-stories
+
+Part 3:
+ —Wireframe:
+https://www.figma.com/file/wAn9rpVED9sfm9xPZX2bip/InstaGrub?node-id=0%3A1
+
